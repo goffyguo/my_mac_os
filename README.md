@@ -34,6 +34,8 @@ Chrome
 
 **[Maccy](https://maccy.app) - Copy/paste anything over the Mac**
 
+**[Bob](https://github.com/ripperhe/Bob) - Bob is a macOS translation application for text and pictures, and manual input.**
+
 
 
 ### Social
