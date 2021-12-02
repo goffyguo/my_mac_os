@@ -7,7 +7,7 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### **[IntelliJ IDEA](https://www.jetbrains.com/idea/) - Best Java client**
 
-#### **[Postman](https://www.postman.com) - HTTP client**
+#### **~~[Postman](https://www.postman.com) - HTTP client~~**
 
 #### [Paw](https://paw.cloud/) - HTTP client
 
