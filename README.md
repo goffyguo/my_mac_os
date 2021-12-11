@@ -64,3 +64,67 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### **[Tunnelblick](https://tunnelblick.net)**
 
+## My wonderful world of iOS 📱
+
+#### [1Password](https://1password.com/) - Password manager
+
+- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/1password).
+
+#### Bilibili
+
+#### Chrome
+
+#### DAMA
+
+#### Discord
+
+#### Discord
+
+#### Google Drive
+
+#### Eduic
+
+#### Github
+
+#### Google one
+
+#### Google photo
+
+#### Instagram
+
+#### JD
+
+#### Netflix
+
+#### Nike Run Club
+
+#### Notion
+
+#### Office
+
+#### Outlook
+
+#### Picsew
+
+#### Shadowrocket
+
+#### Telegram
+
+#### Twitter
+
+#### Google Voice
+
+#### WeChat
+
+#### Weibo
+
+#### Youtube
+
+#### 北京一卡通
+
+#### 即刻
+
+#### 拦截 100
+
+#### 豆瓣
+
