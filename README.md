@@ -1,7 +1,7 @@
 # my_mac_os
 List of applications and tools that make my macOS experience even more amazing
 
-[Pasted Graphic 3](/imgs/Pasted Graphic 3.png)
+![Pasted Graphic 3](imgs/Pasted Graphic 3.png)
 
 ### Development
 
