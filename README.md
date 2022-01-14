@@ -48,7 +48,7 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### [Dictionary(Eduic)](https://www.eudic.net/)
 
-#### **[Rectangle](https://github.com/rxhanson/Rectangle)** - Rectangle is a window management app based on Spectacle, written in Swift.
+#### **~~[Rectangle](https://github.com/rxhanson/Rectangle)** - Rectangle is a window management app based on Spectacle, written in Swift.~~
 
 
 
