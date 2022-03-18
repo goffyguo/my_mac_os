@@ -36,7 +36,7 @@ List of applications and tools that make my macOS experience even more amazing
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/tools/notion).
 
-#### [1Password](https://1password.com/) - Password manager
+#### ~~[1Password](https://1password.com/) - Password manager
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/1password).
 
@@ -49,6 +49,7 @@ List of applications and tools that make my macOS experience even more amazing
 #### [Dictionary(Eduic)](https://www.eudic.net/)
 
 #### **~~[Rectangle](https://github.com/rxhanson/Rectangle)** - Rectangle is a window management app based on Spectacle, written in Swift.~~
+#### ** obsidian
 
 
 
@@ -70,19 +71,49 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### **[Tunnelblick](https://tunnelblick.net)**
 
+## My wonderful world of iPad 
+
+#### Bilibili
+
+#### Netflix
+
+#### Youtube
+
+#### 微信读书
+
+#### Obsidian
+
+#### Coursera
+
+#### Google Earth
+
+#### 豆瓣
+
+#### 高德地图
+
+#### 机核
+
+#### NBA 2K22 Aecade Edition
+
+#### Notion
+
+#### Reddit
+
+#### 少数派
+
+#### Sketchbook
+
+#### Unsplash
+
 ## My wonderful world of iOS 📱
 
 #### [1Password](https://1password.com/) - Password manager
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/1password).
 
-#### Bilibili
 
-#### Chrome
 
 #### DAMA
-
-#### Discord
 
 #### Discord
 
@@ -100,7 +131,6 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### JD
 
-#### Netflix
 
 #### Nike Run Club
 
@@ -124,8 +154,6 @@ List of applications and tools that make my macOS experience even more amazing
 
 #### Weibo
 
-#### Youtube
-
 #### 北京一卡通
 
 #### 即刻
@@ -133,4 +161,8 @@ List of applications and tools that make my macOS experience even more amazing
 #### 拦截 100
 
 #### 豆瓣
+
+#### 高德地图
+
+#### 美团
 
